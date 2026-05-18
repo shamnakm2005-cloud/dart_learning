@@ -47,6 +47,19 @@
     <file url="file://$PROJECT_DIR$/dynamically_type.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/element_atmethod.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/evne_number.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/checking.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/constant.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/distance.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/fruits.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/interst.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/multiple_table.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/print.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/reverse.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/simple_calculator.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/spliting.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/vowels.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/exam/whitespace_string.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/expence.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fibinocci_recursion.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/fibinocci_series.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/finally_try_catch.dart" charset="UTF-8" />
@@ -63,6 +76,7 @@
     <file url="file://$PROJECT_DIR$/futn_sumof_two.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/get_index_by_value.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/global_scope.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/greet.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/growable_list.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/handle_exception.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/increment_decrement.dart" charset="UTF-8" />
